@@ -1,4 +1,8 @@
 # MIT_Hackathon2k19
+
+Team Name- SourceDeCode
+
+
 A solution towards one popular problem to ease the doctor off his burden towards the medicines and also the dosage one has to prescribe with them.
 
 We aim to solve the current persisting problem of how doctors and other medical practitioners are under dire pressure and adept frustration that is pretty much displayed in their hand writing. As the medical research and development is able to come up with much amazing and miracle drugs, all the burden unfolds over the doctors as they must be well equipped with the latest and the best solution available that is able to cure the patient or improve his conditions, much better than once possible with the former means.
