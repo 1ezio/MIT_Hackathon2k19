@@ -23,4 +23,4 @@ The below application is our take on this problem. The application is able to ma
 - The patient can login to view their past prescription reports.
 
 
-**_Note: There may be errors due to the aspect ratio of the device used. This software is especially made considering a Tablet of about 7"_**
+**_Note: There may be errors due to the aspect ratio of the device used. This software is especially made considering a Tablet of about 7 Also I am  not able to upload source code because of its larger size"_**
