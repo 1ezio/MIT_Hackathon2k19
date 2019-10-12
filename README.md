@@ -23,4 +23,19 @@ The below application is our take on this problem. The application is able to ma
 - The patient can login to view their past prescription reports.
 
 
+## Procedure of usage :
+- The software upon installation every person from the institution would be registered to this application. They would be provided with a unique username and password, hence cannot be tampered with.
+
+- The receptionist would be responsible for the registration process of the patients. The registration page would include his genral information including the BMI information and allergies of any form. 
+
+- Any Patient upon entering the institution can be registered, proving him with a patient id that would be the key to this whole software.
+
+- Now as we have a registered patient, he can be applied to have an appointment.
+
+- Doctor upon logging in can trace the patient via entering his unique ID. Then he would be able to view this patient's details. No he must enter his symptoms and chronic allergies if any. 
+
+- Then the algorithm would be able to predict the diseases and the medicines and thier dosages can be viewed, also the tests would be viewed.
+
+- Now the doctor can add these medicines in the prescription area. Hence at the end of this, he can print the preview such that the doctor and the patient can have this information in black and white.
+
 **_Note: There may be errors due to the aspect ratio of the device used. This software is especially made considering a Tablet of about 7 Also I am  not able to upload source code because of its larger size"_**
