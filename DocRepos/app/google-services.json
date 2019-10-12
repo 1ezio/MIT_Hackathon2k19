@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122731341538",
+    "firebase_url": "https://docrepos-a3017.firebaseio.com",
+    "project_id": "docrepos-a3017",
+    "storage_bucket": "docrepos-a3017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122731341538:android:b53012dc4af5ed6b",
+        "android_client_info": {
+          "package_name": "com.doc.docrepos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122731341538-eoppsmnrof3tfad19q26jtf35uhujjb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doc.docrepos",
+            "certificate_hash": "c34d5331c603573bc405695c7a0d604cdbb9fed2"
+          }
+        },
+        {
+          "client_id": "122731341538-cpv6663dhaq70idqqvernrbthg4bumur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlLuV9CKL1FTwF-OTu2-U1qfHrUELYk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122731341538-cpv6663dhaq70idqqvernrbthg4bumur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

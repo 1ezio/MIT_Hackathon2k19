@@ -1,0 +1,105 @@
+Disease,Chronic Diseases,Symptoms,Medicine,Dosage,Test_Required
+Malaria,Pregnant,"""shaking chills high fever vomiting nausea headache profuse sweating abdominal pain muscle pain convulsions bloody stool""",Vibramycin 100mg (>18),(1-1-0),Blood Test
+,None,,Vibramycin 2.2mg (<12),(1-1-0) 60 Days,Blood Test
+,"Kidney, Pregnant",,Mepron 250mg (>18),(3-3-3),Blood Test
+,Kidney,,Mepron 250mg (<18),(3-0-3),Blood Test
+,Heart Pregnant,,Larium 250mg (>18),1 in week,Blood Test
+,Heart,,Larium 250mg  (<18),1/2 tab. in a week,PCR Test
+,None,,Krintafel 300mg (>16),1 in a week,PCR Test
+Dengue,Pregnant,severe Joint muscle pain headache fever swollen lymph nodes exhausrtion fatigue nausia vomiting Rash ,Tylenol 1000mg (>18),(1-1-1),PCR Test
+,None,,Tylenol 1000mg (<18),(1-0-1),PCR Test
+Chicken pox,None,"""weight loss night sweat tiredness swelling of lymph glands in armpit or neck sores in mouth diarrhea pneumonia pink or purplish blotches on skin memory loss depression""",Tylenol 1000mg  (>18),(1-1-1-1),"Blood test , Culture of Lesion Sample"
+,None,,Tylenol 325mg (<18),(1-1-1-1),"Blood test , Culture of Lesion Sample"
+,None,,Zovirax 80mg (>18),(1-1-1-1),"Blood test , Culture of Lesion Sample"
+,None,,Zovirax 20 mg(<18),(1-1-1-1),"Blood test , Culture of Lesion Sample"
+,None,,Benadryl 76mg(>18),(1-0-0),"Blood test , Culture of Lesion Sample"
+,None,,Benadryl 38mg(<18),(1-0-0),"Blood test , Culture of Lesion Sample"
+,None,,Calamine lotion,---,"Blood test , Culture of Lesion Sample"
+Migraine,None,anxiety moodiness iritability decrease appetite loss of vision pins in arm or leg weakness or numbness headache pain faint,Naprosyn 550mg (>18),(1-0-0),"CT scan,MRI"
+,None,,Naprosyn 220mg (<18),(1-0-0),"CT scan,MRI"
+,None,,Tylenol 1000mg (>18),(1-1-1-1),"CT scan,MRI"
+,None,,Tylenol 325mg (<18),(1-1-1-1),"CT scan,MRI"
+,None,, Tosymra 10mg,(1-1-1),"CT scan,MRI"
+,None,,Advil 200mg (>18),(1-1-1-1),"CT scan,MRI"
+,None,,Advil 50mg (<18),(1-1-1-1),"CT scan,MRI"
+Bowel,None,diarrhea fever fatigue abdominal pain cramping ...,Metamucil 38gm (>19),(1-0-1),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Metamucil 15gm (<19),(1-0-1),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Miralax 17gm ,(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Lmodium 2mg (>19),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Lmodium 1mg (<19),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Bentyl 20mg ,(1-1-1-1),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Tofranil 100mg (>18),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Tofranil 25mg (<18),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Prozac 20mg (>19),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,,Prozac 10mg (<19),(1-0-0),"""X-Ray,CT scan,Flexible sigmoidoscopy, Lactose Intolerance, Breath Test for Bacterial over growth, upper Endoscopypm , Stool Test "
+,None,"""Hard stool bowel movement swollen belly""",Metamucil 38gm (>18),(1-0-1),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Metamucil 15gm (<18),(1-0-1),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Bentyl 20mg ,(1-1-1-1),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Lmodium 1mg (<19),(1-0-0),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Lmodium 2mg (>19),(1-0-0),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Mirilax 17gm ,(1-0-0),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Colace 400mg (>19),(1-1-1-1),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+,None,,Colace 150mg (<19),(1-1-1-1),"""Blood test , Sigmoidoscopy , Colonoscopy , Anorectal Manometry Colonic Transist Study Defecography """
+Jaundice,None,"""fatigue weight loss fever vomiting dark urine  pain pale stool""",Prednisone 60 mg,(0-1-0),"CT,ultrasonography, liver function test,laparoscopy, biopsy"""
+,Pregnant,,Phenobarbital 200mg,(0-1-0),"CT,ultrasonography, liver function test,laparoscopy, biopsy"""
+Typhoid,None,"""poor appetite pain peritonitis headaches weakness high fever upto 104 F lethargy intestinal bleeding or performation cough""",Cipro 500mg (>18),(1-0-1),"""Body fluid, tissue culture"""
+,None,,Rocephin 75 mg,(1-0-1),"""Body fluid, tissue culture"""
+"""Mouth Ulcers""",None,"""loss of appetite problem with chewing irritation by spicy food""",Kenacort,once in a day,---
+,None,,orasep,once in a day,---
+,None,,betadine gargle,once in a day,---
+,None,,zincovit tablets,twice in a day,---
+Sunburn,None,"""redness on skin pain itching swelling blister headache fever nausea""",burnol cream,twice in a day,---
+,None,,advil 100mg (<11),(1-1-1),---
+,None,,advil 400mg (>11),(1-1-1-1),---
+,None,,actamin 400mg(>18),(1-1-1-1),---
+Indigestion,None,"""uncomfortable fulliness discomfort in upper abdomin nausea """,Ocid 20,(prescribed by doctor),---
+,None,,Aciloc 150,(prescribed by doctor),---
+,None,,Digene,(prescribed by doctor),---
+"""High BP """,pregnant,"""Anxiety Dizziness Headache Shortness of breath nose bleed""",Hygroton,(prescribed by doctor),Check BP
+,"""kidney lever asthma gout diabetes lupus high cholesterol""",,Diuril 500-1000mg,(1-0-1),Check BP
+Arthritis,,"""pain stiffness swelling redness decreased range of motion """,Naprosyn 550 mg(>19),(1-0-1),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Naprosyn 220 mg(<19),(1-0-1),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Advil 200 mg(>19),(1-1-1),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Advil 50 mg(<19),(1-1-1),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Predinsone 60mg,(1-0-0),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,"""Rasuvo 7.5mg (inj.)",single dose,"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Enbrel 50mg (>19),(1-0-0),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Enbrel 25mg (<19),(1-0-0),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Inflectra 3mg,(1-0-0) for 6 weeks,"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Cortef 20 mg,(1-0-0),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Rayos 5mg ,(1-0-0),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+,,,Plaquenil 200 mg ,(1-0-1),"""blood urine and joint fluid test, X-ray, CT, Ultrasound"""
+Diabetes Type 1,,,Insulin- Ryzodeg,(prescribed by doctor),"""Sugar Test, Glycated Haemoglobin Test"""
+Diabetes Type 2,,"""Increase thrist frequent urination extreme hunger weight lose mooching weekness blurry vision""",Metformin 500mg ,(1-0-1),"""Sugar Test, Fasting plasma Glucose Test, A1C Test """
+,,,Diadinese 500mg ,(1-0-0),"""Sugar Test, Fasting plasma Glucose Test, A1C Test """
+,,,Prandin,(prescribed by doctor),"""Sugar Test, Fasting plasma Glucose Test, A1C Test """
+Cold and Cough,,"""Runny stuffy nose sour throat cough congestion mild headache sneezing """,syp. Benadryl 12.5mg (<12),( 1 teaspoon),---
+Influenza,,"""runny nose postnal drip itchy watery eyes sinus congestion""",Xofluza 80 mg (>19),(1-0-0),---
+,,,Tamiflu 75mg (>19),(1-0-0),---
+,,,Xofluza 80 mg (>19),(1-0-0),---
+,,,Tamiflu 30mg (<19),(1-0-1),---
+,,,Relenza 10mg (>19),(1-0-1) 5 days,---
+,,,Relenza 5mg (<19),(1-0-1) 5 days,---
+Rabies,,,"Inj. Anti Rabies Vaccine""",(prescribed by doc.),"""DFA Test"""
+Conjunctivitis,"""cataract glaucoma ""","""pain in eyes redness of eyelids swollen linning of the eyes""","""Lotimax ophthalmic gel """,(2 times a day),---
+,"""pregnant""",,"""Bleph-10 ointment""",( 1 time before sleep for 7 days),---
+Typhoid,"""pregnant""","""pain in abdomin muscles glotting constipation fever chills loss of appetite headache weakness skin rash weightloss diarrhea vomiting ""","""Cipro 500mg """,(1-0-1),"""CBC """
+,,,"""Rocephin 75 mg(<18)""",(1-0-1),"""CBC """
+,None,,Ciprofloxacin 500mg ,(1-0-1) for 10 days,"""CBC """
+,None,,Azithromycin ,500mg (1st day) 250mg (1-0-1),"""CBC """
+"""Measles""",None,"""runny nose dry cough conjunctivitis photophobia sneezing reddish-brown rash white spots in mouth body aches""","""Aleve 275mg (>19)""",(1-1-1),---
+,,,"""Aleve 220mg (<19)""",(1-1-1),---
+,,,"""Aquasol A """,(1-0-1),---
+Cholera,"""pregnant""","""rapid heart rate dry mucos membrane inside mouth low bp thirst muscle cramps""","""Cipro 500mg """,(1-0-1) for 10 days,"""stool test"""
+,"""pregnant""",,Vibramycin 100mg(>19),(1-0-1),"""stool test"""
+,"""pregnant""",,Vibramycin 22mg(<19),(1-0-1),"""stool test"""
+Fever,None,"""sweating shivering headache muscle ache loss of appetite fever weakness dehydration""","""Pantakind """,(1-1-1),---
+"""Cervical spondylosis""",None,"""neck pain headache shoulder pain grinding noise inability in bending neck""",Fexmid,(1-0-0) for 2 weeks,"""Neck X-ray, Myelography, CT scan, MRI, Electromyography"""
+,None,,Tylenol 300mg,(1-1-1-1),"""Neck X-ray, Myelography, CT scan, MRI, Electromyography"""
+,None,,Flexivil 5mg ,(1-1-1),"""Neck X-ray, Myelography, CT scan, MRI, Electromyography"""
+,,,Lyrica 100mg,(1-1-1),"""Neck X-ray, Myelography, CT scan, MRI, Electromyography"""
+,,,Neurontin 300mg,(1-1-1),"""Neck X-ray, Myelography, CT scan, MRI, Electromyography"""
+Diarrhea,liver heart,"""Abdominal cramps pain frequent passing of loose Vomiting """,Diamode 4mg,(after every motion),"""CBC, Stool test Flexible sigmoidoscopy , colonoscopy"""
+,diabetes,,ORS,ORS (1 Ltr),"""CBC, Stool test Flexible sigmoidoscopy , colonoscopy"""
+Anemia,Pregnant,"""dizziness malaise palpitation brittle nails shortness of breath weekness pallor""",Fero-folic 500 (>18),(1-0-0),CBC
+,,,Epogen 100units/kg,(3 times in a week),CBC

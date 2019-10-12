@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.doc.docrepos">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/docf"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/docf"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".patient_record"></activity>
+        <activity android:name=".f_report" />
+        <activity android:name=".appointment_list" />
+        <activity android:name=".new_prescription.patient_id_input_2" />
+        <activity android:name=".doc_prescription_2" />
+        <activity android:name=".appointment_" />
+        <activity android:name=".check_new_patient" />
+        <activity android:name=".test_lab_view" />
+        <activity android:name=".test_lab" />
+        <activity android:name=".testlab_registration" />
+        <activity android:name=".pateint_id_input" />
+        <activity android:name=".data_upload" />
+        <activity android:name=".main_login" />
+        <activity android:name=".doc_prescription" />
+        <activity android:name=".rceptionaist_registration" />
+        <activity android:name=".doc_registration" />
+        <activity android:name=".details" />
+        <activity android:name=".login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+</manifest>

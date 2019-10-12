@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/backgroud1"
+    android:layout_height="match_parent"
+    tools:context=".f_report">
+
+    <EditText
+        android:id="@+id/fr_id_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="75dp"
+        android:ems="10"
+        android:hint="@string/patient_id"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/fr_name_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="25dp"
+        android:visibility="invisible"
+        android:text="Name"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView28"
+        app:layout_constraintTop_toBottomOf="@+id/fr_id_id" />
+
+    <TextView
+        android:id="@+id/fr_age_id"
+        android:layout_width="wrap_content"
+        android:visibility="invisible"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="25dp"
+        android:text="Age"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView32"
+        app:layout_constraintTop_toBottomOf="@+id/fr_name_id" />
+
+    <TextView
+        android:id="@+id/fr_weight_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:visibility="invisible"
+        android:layout_marginTop="25dp"
+        android:text="Weight"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView33"
+        app:layout_constraintTop_toBottomOf="@+id/fr_age_id" />
+
+    <TextView
+        android:id="@+id/fr_gender_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/gender"
+        android:visibility="invisible"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView34"
+        app:layout_constraintTop_toBottomOf="@+id/fr_weight_id" />
+
+    <TextView
+        android:id="@+id/fr_chronic_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="28dp"
+        android:text="chronic"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:visibility="invisible"
+        app:layout_constraintStart_toEndOf="@+id/textView35"
+        app:layout_constraintTop_toBottomOf="@+id/fr_gender_id" />
+
+    <TextView
+        android:id="@+id/fr_dis_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="25dp"
+        android:text="Diseases"
+        android:textColor="#000"
+        android:visibility="invisible"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView36"
+        app:layout_constraintTop_toBottomOf="@+id/fr_chronic_id" />
+
+    <TextView
+        android:id="@+id/fr_med_id"
+        android:layout_width="wrap_content"
+        android:visibility="invisible"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="25dp"
+        android:text="Medicine"
+        android:textColor="#000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/textView37"
+        app:layout_constraintTop_toBottomOf="@+id/fr_dis_id" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@color/fui_transparent"
+        android:onClick="view_repo"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_id_id"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/fr_id_id"
+        app:layout_constraintTop_toTopOf="@+id/fr_id_id"
+        app:srcCompat="@drawable/ic_forward_black_24dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/name"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_name_id"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/fr_name_id" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/age"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_age_id"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/fr_age_id" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/weight"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_weight_id"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="@+id/fr_weight_id" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/gender"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_gender_id"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="@+id/fr_gender_id" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/chronic_disease_if_any"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_chronic_id"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="@+id/fr_chronic_id" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:text="@string/diseases"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_dis_id"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="@+id/fr_dis_id" />
+
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_marginStart="25dp"
+        android:text="@string/medicine"
+        app:layout_constraintBottom_toBottomOf="@+id/fr_med_id"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/fr_med_id" />
+
+    <Button
+        android:id="@+id/done_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:visibility="invisible"
+        android:text="done"
+        android:onClick="done"
+        android:background="@drawable/border_buttion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fr_med_id" />
+</android.support.constraint.ConstraintLayout>
